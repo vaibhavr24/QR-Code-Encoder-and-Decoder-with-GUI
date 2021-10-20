@@ -9,3 +9,6 @@ qrcode, opencv and tkinter
 * decode.py is use to decode the data stored inside the qrcode
 
 and both the files have there own GUI build 
+
+## Liberay Link
+[qrcode](https://pypi.org/project/qrcode/)
