@@ -11,4 +11,4 @@ qrcode, opencv and tkinter
 and both the files have there own GUI build 
 
 ## Liberay Link
-[qrcode](https://pypi.org/project/qrcode/)
+[qrcode](https://pypi.org/project/qrcode/) pip install qrcode
