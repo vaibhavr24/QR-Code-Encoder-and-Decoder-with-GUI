@@ -13,3 +13,17 @@ and both the files have there own GUI build
 ## Liberay Link
 [qrcode](https://pypi.org/project/qrcode/) - pip install qrcode                                               
 [OpenCV](https://pypi.org/project/opencv-python/) - pip install opencv-python
+
+
+## Authors
+
+- [@vaibhavr24](https://github.com/vaibhavr24)
+
+  
+
+
+## Screenshots
+
+![App Screenshot]()
+
+  
