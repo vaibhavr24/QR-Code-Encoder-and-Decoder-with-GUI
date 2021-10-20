@@ -1,6 +1,6 @@
 # QR-code-Encoder-and-Decoder with GUI
 
-Creating a fun project that encodes and decodes a given qrcode with 10 lines of python code
+Creating a fun project that encodes and decodes a given qrcode in Python
 
 lib - 
 qrcode, opencv and tkinter
