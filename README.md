@@ -15,15 +15,15 @@ and both the files have there own GUI build
 [OpenCV](https://pypi.org/project/opencv-python/) - pip install opencv-python
 
 
+## Screenshots
+
+![App Screenshot]()
+
+  
+
 ## Authors
 
 - [@vaibhavr24](https://github.com/vaibhavr24)
 
   
 
-
-## Screenshots
-
-![App Screenshot]()
-
-  
