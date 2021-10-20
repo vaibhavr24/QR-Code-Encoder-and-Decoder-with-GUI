@@ -7,6 +7,11 @@ Creating a GUI based project that encodes and decodes a given qrcode in Python
 
 and both the files have there own GUI build 
 
+# QR Code
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vaibhavr24/QR-Code-Encoder-and-Decoder-with-GUI/blob/main/qrc.py)
+
+
 ## Required Library
 
 Install qrcode
