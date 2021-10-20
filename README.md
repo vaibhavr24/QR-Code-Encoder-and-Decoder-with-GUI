@@ -15,7 +15,7 @@ and both the files have there own GUI build
 [OpenCV](https://pypi.org/project/opencv-python/) - pip install opencv-python
 
 
-## Screenshots
+# Screenshots
 ## Encode
 ![App Screenshot](https://user-images.githubusercontent.com/73458444/138125675-06eecc27-4440-405b-a1db-395deefb27d2.png)
 
