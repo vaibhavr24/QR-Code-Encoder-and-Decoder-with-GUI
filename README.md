@@ -1,4 +1,4 @@
-# QR-Code-Encoder-and-Decoder with GUI
+# QR Code Encoder and Decoder with GUI
 
 Creating a GUI based project that encodes and decodes a given qrcode in Python
 
